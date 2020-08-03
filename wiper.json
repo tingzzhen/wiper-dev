@@ -1,0 +1,2795 @@
+[
+    {
+        "car_brand": "BENZ",
+        "car_type": "A(W169)",
+        "car_year": "2004～2012",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "A(W176)",
+        "car_year": "2012～2015",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "A(W176)",
+        "car_year": "2015～2018",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "A(W177)",
+        "car_year": "2018～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "B(W245)",
+        "car_year": "2005～2012",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "B(W246)",
+        "car_year": "2012～2015",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "B(W246)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "C(W203)",
+        "car_year": "2003～2007",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "C(W204)",
+        "car_year": "2007～2012",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "C(W204)",
+        "car_year": "2013～2014",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "C(W205)",
+        "car_year": "2014～2014",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "C(W205)",
+        "car_year": "2014～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CL(W215/W216)",
+        "car_year": "2000～",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLA",
+        "car_year": "2013～2016",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLA(C117)",
+        "car_year": "2016～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLC",
+        "car_year": "2008～2010",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLC(coupe)",
+        "car_year": "2014～2014",
+        "wiper_size": "27吋+27吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLS(W219)",
+        "car_year": "2004～2010",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLS (W218coupe)",
+        "car_year": "2010～2013",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLS (W218coupe)",
+        "car_year": "2014～2018",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLS (C257)",
+        "car_year": "2018～",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "CLK (C209)",
+        "car_year": "2002～2009",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W207)",
+        "car_year": "2009～2012",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W207)",
+        "car_year": "2013～",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W211)",
+        "car_year": "2002～2009",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W212)",
+        "car_year": "2009～2013",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W212)",
+        "car_year": "2014～2015",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W213)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "E(W463)",
+        "car_year": "2018～",
+        "wiper_size": "16吋+16吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GL(W164)",
+        "car_year": "2007～2012",
+        "wiper_size": "28吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GL(W166)",
+        "car_year": "2012～2015",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLA(X156)",
+        "car_year": "2013～2015",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLA(X156)",
+        "car_year": "2015～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLC(X253)",
+        "car_year": "2015～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLE(C166)",
+        "car_year": "2015～2019",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLE(C292)",
+        "car_year": "2015～2019",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLK(X204)",
+        "car_year": "2008～2014",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLK(X204)",
+        "car_year": "2014～",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "GLS(OM642)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "ML(W164)",
+        "car_year": "2005～2011",
+        "wiper_size": "28吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "ML(W166)",
+        "car_year": "2012～",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "R(R280/R320/R350W251)",
+        "car_year": "2005～",
+        "wiper_size": "28吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "S(C215)",
+        "car_year": "2099～2006",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "S(W220)",
+        "car_year": "2000～2005",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "S(W221)",
+        "car_year": "2005～2013",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "S(W222)",
+        "car_year": "2013～",
+        "wiper_size": "26吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "SL(R230)",
+        "car_year": "2001～2012",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "SLC(W172)",
+        "car_year": "2016～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "SLK(R171/R172)",
+        "car_year": "2005～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "SLR(R199)",
+        "car_year": "2007～",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "SPRINTER(906)",
+        "car_year": "2006～",
+        "wiper_size": "26吋+24吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "VANEO(W414)",
+        "car_year": "2004～2005",
+        "wiper_size": "26吋+23吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "V VIANO(W639)",
+        "car_year": "2005～2014",
+        "wiper_size": "28吋+26吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "V VITO(W639)",
+        "car_year": "2005～2014",
+        "wiper_size": "28吋+26吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BENZ",
+        "car_type": "V VITO(W447)",
+        "car_year": "2015～",
+        "wiper_size": "28吋+18吋",
+        "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "1 SERIES (E81)",
+        "car_year": "2004～2011",
+        "wiper_size": "20吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "1 SERIES (E82)",
+        "car_year": "2004～2011",
+        "wiper_size": "20吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "1 SERIES (E87)",
+        "car_year": "2004～2011",
+        "wiper_size": "20吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "1 SERIES (E88)",
+        "car_year": "2004～2011",
+        "wiper_size": "20吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "1 SERIES (F20/F21)",
+        "car_year": "2012～",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "2 SERIES (F22/F23)",
+        "car_year": "2014～",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "2 SERIES (F45/F46)",
+        "car_year": "2014～2018",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES (E90/E91)",
+        "car_year": "2005～2009",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES (E92/E93)",
+        "car_year": "2006～2009",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES (E90/E91)",
+        "car_year": "2010～2013",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES (E92/E93)",
+        "car_year": "2010～2013",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES (F30/F31/F35)",
+        "car_year": "2012～2019",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES GT (F34)",
+        "car_year": "2012～2019",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "3 SERIES (G20)",
+        "car_year": "2019～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "4 SERIES (F32/F33/F36)",
+        "car_year": "2014～",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "5 SERIES (E60/E61)",
+        "car_year": "2003～2010",
+        "wiper_size": "24吋+23吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "5 SERIES (F10/F11)",
+        "car_year": "2010～2017",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "5 SERIES (G30/G31)",
+        "car_year": "2017～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "6 SERIES (E63/E64)",
+        "car_year": "2004～2010",
+        "wiper_size": "24吋+23吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "6 SERIES (F12/F13/F06)",
+        "car_year": "2011～2017",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "6 SERIES (G32)",
+        "car_year": "2017～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "7 SERIES (F01/F02/F04)",
+        "car_year": "2009～2015",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "7 SERIES (G11/G12)",
+        "car_year": "2016～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "I3",
+        "car_year": "2014～2016",
+        "wiper_size": "28吋+21吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "M2",
+        "car_year": "2016～2018",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "M3(F80)",
+        "car_year": "2014～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "M4(F82)",
+        "car_year": "2014～",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X1(E84)",
+        "car_year": "2009～2015",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X1(F48)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X3(F25)",
+        "car_year": "2010～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X4(F26)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X5(E70)",
+        "car_year": "2007～2009",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X5(E70)",
+        "car_year": "2010～2011",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X5(E70)",
+        "car_year": "2012～2013",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "BMW",
+        "car_type": "X6(E71/E72)",
+        "car_year": "2007～2012",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A1",
+        "car_year": "2010～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A1 (Sportback)",
+        "car_year": "2012～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3",
+        "car_year": "2003～2004",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3",
+        "car_year": "2005～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3",
+        "car_year": "2012～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3 (Cabriolet)",
+        "car_year": "2008～2013",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3 (Cabriolet)",
+        "car_year": "2013～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3 (Sportback)",
+        "car_year": "2004～2004",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3 (Sportback)",
+        "car_year": "2005～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A3 (Sportback)",
+        "car_year": "2013～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (B6/B7)",
+        "car_year": "2004～2008",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (B8)",
+        "car_year": "2008～2015",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (B9)",
+        "car_year": "2016～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (Allroad)",
+        "car_year": "2009～2015",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (Allroad)",
+        "car_year": "2016～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (Avant)(B8)",
+        "car_year": "2008～2015",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A4 (Avant)(B9)",
+        "car_year": "2016～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A5 (Cabriolet)(8F7)",
+        "car_year": "2009～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A5 (Coupe)(8T3)",
+        "car_year": "2007～2007",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A5 (Coupe)(8TA)",
+        "car_year": "2008～2017",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A5 (Coupe)(F53)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A5 (Soprtback)(8T3/一代)",
+        "car_year": "2009～2017",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A5 (Soprtback)(F5A/二代)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (C5 / MK2)",
+        "car_year": "2001～2005",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (C6 / MK3)",
+        "car_year": "2005～2011",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (C7 / MK4)",
+        "car_year": "2011～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (Allroad)(C5)",
+        "car_year": "2001～2005",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (Allroad)(C6)",
+        "car_year": "2006～2011",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (Allroad)(C7)",
+        "car_year": "2012～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (Avant)(C5)",
+        "car_year": "2001～2005",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (Avant)(C6)",
+        "car_year": "2005～2011",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A6 (Avant)(C7)",
+        "car_year": "2012～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A7 (Sportback)",
+        "car_year": "2010～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "A8 (D4)",
+        "car_year": "2010～",
+        "wiper_size": "27吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q2 (GAB)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q3 (8UB)",
+        "car_year": "2011～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q3 (8UB)(RS)",
+        "car_year": "2013～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q5 (8RB/一代)",
+        "car_year": "2008～2017",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q5 (FYB/二代)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q7 (4LB)",
+        "car_year": "2006～2015",
+        "wiper_size": "26吋+24吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "Q7 (4MB)",
+        "car_year": "2016～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS3 (8PA)",
+        "car_year": "2011～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS4 (B7)",
+        "car_year": "2006～2008",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS4 (Avant)(B8)",
+        "car_year": "2012～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS5 (Cabriolet)",
+        "car_year": "2013～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS6 (C6)",
+        "car_year": "2008～2010",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS6 (Avant)(C6)",
+        "car_year": "2008～2010",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "RS7 (Sportback)(4GA)",
+        "car_year": "2013～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "R8",
+        "car_year": "2015～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "R8 (Spyder)",
+        "car_year": "2016～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S1",
+        "car_year": "2014～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S3 (8P1)",
+        "car_year": "2006～2013",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S3",
+        "car_year": "2013～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S3 (Cabriolet)",
+        "car_year": "2014～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S3 (Sedan)",
+        "car_year": "2013～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S3 (Sportback)(8PA)",
+        "car_year": "2008～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S3 (Sportback)",
+        "car_year": "2013～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S4 (B6/B7)",
+        "car_year": "2004～2009",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S4 (B8)",
+        "car_year": "2009～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S4 (B9)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S4 (Avant)(B8)",
+        "car_year": "2009～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S4 (Avant)(B9)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S5 (Cabriolet)(8F7)",
+        "car_year": "2009～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S5 (Coupe)(8T3)",
+        "car_year": "2008～2016",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S5 (Coupe)(F53)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S5 (Sportback)(8T4)",
+        "car_year": "2010～2016",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S5 (Sportback)(5FA)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S6 (C6)",
+        "car_year": "2006～2011",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S6 (C7)",
+        "car_year": "2012～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S6 (Avant)(C6)",
+        "car_year": "2006～2011",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S6 (Avant)(C7)",
+        "car_year": "2012～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S7 (Sportback)(4GA)",
+        "car_year": "2012～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "S8 (D4)",
+        "car_year": "2012～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "SQ5 (8RB/一代)",
+        "car_year": "2013～2017",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "SQ5 (FYB/二代)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "SQ7 (4MB)",
+        "car_year": "2017～",
+        "wiper_size": "27吋+21吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "TT (MK1)(8N3/8N9)",
+        "car_year": "2003～2006",
+        "wiper_size": "22吋+21吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "TT (MK2)(8J3/8J9)",
+        "car_year": "2006～2015",
+        "wiper_size": "22吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "TT (MK3)(FV3)",
+        "car_year": "2015～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI",
+        "car_type": "TTS (MK2)(8J3/8J9)",
+        "car_year": "2008～2015",
+        "wiper_size": "22吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Amarok (2H)",
+        "car_year": "2013～",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Beetle (5C1 / 5C2)",
+        "car_year": "2011～",
+        "wiper_size": "22吋+22吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Caddy (三代／2K)",
+        "car_year": "2004～2006",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Caddy (三代／2K／2C)",
+        "car_year": "2007～2016",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Caddy (四代／SA)",
+        "car_year": "2016～2017",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Caddy (四代／SA)",
+        "car_year": "2018～",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "CC (Passat CC / 357)",
+        "car_year": "2008～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "CC (VW CC / 358)",
+        "car_year": "2012～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Crafter",
+        "car_year": "2006～",
+        "wiper_size": "26吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Eos (1F7 / 1F8)",
+        "car_year": "2006～2015",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf (MK4)",
+        "car_year": "2098～2003",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf (MK5)",
+        "car_year": "2004～2005",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf (MK5)",
+        "car_year": "2006～2008",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf (MK6)",
+        "car_year": "2009～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf (MK7)",
+        "car_year": "2013～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Alltrack",
+        "car_year": "2015～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Plus (MK5)",
+        "car_year": "2005～2009",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Plus (MK6)",
+        "car_year": "2009～2014",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Variant (MK5)",
+        "car_year": "2007～2009",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Variant (MK6)",
+        "car_year": "2009～2013",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Variant (MK7)",
+        "car_year": "2014～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Golf Sportsvan",
+        "car_year": "2014～",
+        "wiper_size": "28吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Jetta (MK5 / 1K2)",
+        "car_year": "2005～2006",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Jetta (MK5 / 1K2)",
+        "car_year": "2006～2010",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Jetta (MK6 / 162 / 163 / AV2)",
+        "car_year": "2011～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Lupo",
+        "car_year": "2000～2005",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Multivan",
+        "car_year": "2003～2013",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Passat (B5.5 / 3B3 / 3B6)",
+        "car_year": "2002～2005",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Passat (B6 / 3C2 / 3C5)",
+        "car_year": "2006～2010",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Passat (B7 / 362 / 365)",
+        "car_year": "2011～2011",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Passat (B7 / 362 / 365)",
+        "car_year": "2012～2014",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Passat (B8 / 3G2 / 3G5)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "PASSAT CC",
+        "car_year": "2008～2013",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Phaeton (3D)",
+        "car_year": "2002～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "POLO (9N1)",
+        "car_year": "2002～2005",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "POLO (9N3 / 9N4)",
+        "car_year": "2005～2009",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "POLO (6R1 / 6C1)",
+        "car_year": "2010～2017",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "POLO (六代／AW1)",
+        "car_year": "2018～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Scirocco (137 / 138)",
+        "car_year": "2008～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Sharan (7M9 / 7M6)",
+        "car_year": "2001～2010",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Sharan (7N1 / 7N2)",
+        "car_year": "2010～",
+        "wiper_size": "28吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "T5 (California / Multivan)",
+        "car_year": "2004～2009",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "T5 (California / Multivan)",
+        "car_year": "2014～2015",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "T5 (Caravelle / Transporter)",
+        "car_year": "2014～2015",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "T6 (California / Multivan)",
+        "car_year": "2016～",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "T6 (Caravelle / Transporter)",
+        "car_year": "2016～",
+        "wiper_size": "24吋+24吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Tiguan (一代／5N1／5N2)",
+        "car_year": "2007～2016",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Tiguan (二代／AD1)",
+        "car_year": "2016～",
+        "wiper_size": "26吋+22吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touareg (7LA / 7L6)",
+        "car_year": "2002～2006",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touareg (7L6)",
+        "car_year": "2007～2010",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touareg (7P5 / 7P6)",
+        "car_year": "2010～",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touran (1T1)",
+        "car_year": "2003～2006",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touran (1T2)",
+        "car_year": "2007～2010",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touran (1T3)",
+        "car_year": "2010～2015",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "Touran (5T1)",
+        "car_year": "2016～",
+        "wiper_size": "28吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VW",
+        "car_type": "UP !",
+        "car_year": "2014～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Citigo",
+        "car_year": "2013～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Fabia",
+        "car_year": "2000～2007",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Fabia (5J2)",
+        "car_year": "2007～2014",
+        "wiper_size": "21吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Fabia (NJ3)",
+        "car_year": "2015～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Koroq",
+        "car_year": "2018～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Kodiaq (NS7)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Octavia (二代／1Z3)",
+        "car_year": "2004～2012",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Octavia (三代／5E3)",
+        "car_year": "2013～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Rapid (NH3)",
+        "car_year": "2012～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Roomster (5J7)",
+        "car_year": "2006～",
+        "wiper_size": "21吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Supeb (二代／3T4)",
+        "car_year": "2008～2014",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA",
+        "car_type": "Supeb (三代／3V3)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "500 / 500",
+        "car_year": "2011～2016",
+        "wiper_size": "24吋+14吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Bravo",
+        "car_year": "2007～2014",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Grande Punto",
+        "car_year": "2014～2016",
+        "wiper_size": "26吋+15吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Punto Grande (199)",
+        "car_year": "2005～2011",
+        "wiper_size": "26吋+14吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Stilo",
+        "car_year": "2006～2008",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Doblo",
+        "car_year": "2010～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Ducato",
+        "car_year": "2006～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Linea",
+        "car_year": "2007～",
+        "wiper_size": "26吋+15吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FIAT",
+        "car_type": "Multipla",
+        "car_year": "2006～2010",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "C30",
+        "car_year": "2006～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "C70",
+        "car_year": "2006～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S40",
+        "car_year": "2004～2006",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S40",
+        "car_year": "2006～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S60",
+        "car_year": "2004～2010",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S60",
+        "car_year": "2011～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S80",
+        "car_year": "2004～2006",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S80",
+        "car_year": "2007～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "S90",
+        "car_year": "2016～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V40",
+        "car_year": "2012～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V50",
+        "car_year": "2004～2006",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V50",
+        "car_year": "2006～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V60",
+        "car_year": "2010～2019",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V70",
+        "car_year": "2004～2007",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V70",
+        "car_year": "2007～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "V90",
+        "car_year": "2017～",
+        "wiper_size": "25吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC40",
+        "car_year": "2018～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC60",
+        "car_year": "2009～2010",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC60",
+        "car_year": "2011～2017",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC60",
+        "car_year": "2017～2018",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC70",
+        "car_year": "2004～2007",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC70",
+        "car_year": "2007～",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLVO",
+        "car_type": "XC90",
+        "car_year": "2004～2015",
+        "wiper_size": "24吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "Berlingo",
+        "car_year": "2008～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "C4 (3門 / 5門)",
+        "car_year": "2004～2009",
+        "wiper_size": "28吋+24吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "C4 (B71)",
+        "car_year": "2010～",
+        "wiper_size": "30吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "C5",
+        "car_year": "2008～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "C5",
+        "car_year": "2008～",
+        "wiper_size": "28吋+22吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "DS3 (A55 / A56)",
+        "car_year": "2009～2015",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "DS4 (B75)",
+        "car_year": "2011～2015",
+        "wiper_size": "30吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "Xsara Picasso",
+        "car_year": "2005～2016",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "CITROEN",
+        "car_type": "C3 Picasso (A58)",
+        "car_year": "2010～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "E"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "911 Coupe",
+        "car_year": "2013～2015",
+        "wiper_size": "23吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "911 (911)",
+        "car_year": "2011～",
+        "wiper_size": "23吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Cayenne (955)",
+        "car_year": "2002～2006",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Cayenne (957)",
+        "car_year": "2007～2010",
+        "wiper_size": "25吋+25吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Cayenne (958)",
+        "car_year": "2010～2017",
+        "wiper_size": "25吋+25吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Cayenne (958.2) (三代)",
+        "car_year": "2017～",
+        "wiper_size": "25吋+22吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Caymam (981C)",
+        "car_year": "2013～2016",
+        "wiper_size": "23吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Caymam (718C)",
+        "car_year": "2016～",
+        "wiper_size": "23吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "Macan",
+        "car_year": "2014～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE",
+        "car_type": "PANAMERA (一代)",
+        "car_year": "2013～2016",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "RANGE ROVER",
+        "car_type": "FREELANDER 2",
+        "car_year": "2007～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "RANGE ROVER",
+        "car_type": "Discovery (五代)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "RANGE ROVER",
+        "car_type": "Evoque",
+        "car_year": "2011～",
+        "wiper_size": "24吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "RANGE ROVER",
+        "car_type": "Range Rover Sport",
+        "car_year": "2017～2018",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "207 (A7)",
+        "car_year": "2006～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "207 (CC) (A7)",
+        "car_year": "2007～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "207 (SW) (A7)",
+        "car_year": "2007～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "208",
+        "car_year": "2012～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "301",
+        "car_year": "2012～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "307 (CC)",
+        "car_year": "2003～2005",
+        "wiper_size": "28吋+24吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "307 (CC)",
+        "car_year": "2005～2009",
+        "wiper_size": "28吋+26吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "307 (SW) (T5 / T6)",
+        "car_year": "2004～2007",
+        "wiper_size": "28吋+26吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "307 (SW) (T5 / T6)",
+        "car_year": "2008～2014",
+        "wiper_size": "30吋+26吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "308 (CC)",
+        "car_year": "2010～",
+        "wiper_size": "30吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "308 (SW)",
+        "car_year": "2008～2013",
+        "wiper_size": "30吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "308 (SW) (二代／T9)",
+        "car_year": "2014～",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "407 (SW)",
+        "car_year": "2004～",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "508",
+        "car_year": "2010～",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "508 (RXH)",
+        "car_year": "2011～",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "508 (SW)",
+        "car_year": "2010～",
+        "wiper_size": "26吋+26吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "2008",
+        "car_year": "2013～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "3008",
+        "car_year": "2009～",
+        "wiper_size": "31吋+28吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "3008",
+        "car_year": "2017～",
+        "wiper_size": "28吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "5008",
+        "car_year": "2009～",
+        "wiper_size": "32吋+28吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT",
+        "car_type": "5008",
+        "car_year": "2018～",
+        "wiper_size": "28吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LEXUS",
+        "car_type": "RX (四代)",
+        "car_year": "2015～",
+        "wiper_size": "26吋+21吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LEXUS",
+        "car_type": "NX 200",
+        "car_year": "2014～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA",
+        "car_type": "Alphard (三代)",
+        "car_year": "2015～",
+        "wiper_size": "30吋+14吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA",
+        "car_type": "C-HR",
+        "car_year": "2017～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA",
+        "car_type": "Mirai",
+        "car_year": "2016～2018",
+        "wiper_size": "26吋+20吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA",
+        "car_type": "Prius 四代  (W50)",
+        "car_year": "2016～",
+        "wiper_size": "28吋+16吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA",
+        "car_type": "Prius PHV (二代)",
+        "car_year": "2017～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA",
+        "car_type": "Sienta",
+        "car_year": "2016～",
+        "wiper_size": "26吋+14吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TESLA",
+        "car_type": "Model S",
+        "car_year": "2012～",
+        "wiper_size": "28吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LUXGEN",
+        "car_type": "7 SUV",
+        "car_year": "2010～2012",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "LUXGEN",
+        "car_type": "7 SUV",
+        "car_year": "2012～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LUXGEN",
+        "car_type": "M7 TURBO",
+        "car_year": "2014～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LUXGEN",
+        "car_type": "S5",
+        "car_year": "2015～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LUXGEN",
+        "car_type": "U7 SUV",
+        "car_year": "2012～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LUXGEN",
+        "car_type": "V7",
+        "car_year": "2016～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "OPEL",
+        "car_type": "Astra H",
+        "car_year": "2004～",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "OPEL",
+        "car_type": "Adam",
+        "car_year": "2013～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "OPEL",
+        "car_type": "Corsa D",
+        "car_year": "2006～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "JAGUAR",
+        "car_type": "F-Pace",
+        "car_year": "2016～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "JAGUAR",
+        "car_type": "XE",
+        "car_year": "2016～",
+        "wiper_size": "28吋+17吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "JAGUAR",
+        "car_type": "XF(一代)",
+        "car_year": "2008～2015",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "JAGUAR",
+        "car_type": "XF(二代)",
+        "car_year": "2016～",
+        "wiper_size": "28吋+17吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "JAGUAR",
+        "car_type": "XF Sportbrake (一代)",
+        "car_year": "2012～2017",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "JAGUAR",
+        "car_type": "XF Sportbrake (二代)",
+        "car_year": "2018～",
+        "wiper_size": "28吋+17吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Edge",
+        "car_year": "2015～2016",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Escort",
+        "car_year": "2017～",
+        "wiper_size": "22吋+18吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Fiesta",
+        "car_year": "2095～2002",
+        "wiper_size": "19吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Fiesta  (六代／MK7)",
+        "car_year": "2009～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Focus (MK2)",
+        "car_year": "2004～2012",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Focus (MK3)",
+        "car_year": "2013～2014",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Focus (MK3.5)",
+        "car_year": "2014～2019",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Focus (MK4)",
+        "car_year": "2019～",
+        "wiper_size": "24吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Kuga",
+        "car_year": "2013～",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Mondeo (MK4)",
+        "car_year": "2007～2014",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Mondeo (MK5)",
+        "car_year": "2015～",
+        "wiper_size": "28吋+28吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Mustang",
+        "car_year": "2012～",
+        "wiper_size": "22吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "Ranger",
+        "car_year": "2016～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD",
+        "car_type": "TIERRA (歐規)",
+        "car_year": "2098～",
+        "wiper_size": "21吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BENTLEY",
+        "car_type": "Bentayga",
+        "car_year": "2016～",
+        "wiper_size": "27吋+21吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "ALFA ROMEO",
+        "car_type": "159 / SPORTWAGON",
+        "car_year": "2005～2011",
+        "wiper_size": "23吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "ALFA ROMEO",
+        "car_type": "BRERA",
+        "car_year": "2006～",
+        "wiper_size": "23吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "ALFA ROMEO",
+        "car_type": "Coupe GT",
+        "car_year": "2005～",
+        "wiper_size": "22吋+16吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "ALFA ROMEO",
+        "car_type": "Mito",
+        "car_year": "2008～",
+        "wiper_size": "26吋+15吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "ALFA ROMEO",
+        "car_type": "Spider",
+        "car_year": "2006～2010",
+        "wiper_size": "23吋+18吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "ALFA ROMEO",
+        "car_type": "147",
+        "car_year": "2005～2009",
+        "wiper_size": "22吋+16吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "CADILLAC",
+        "car_type": "CTS",
+        "car_year": "2015～2017",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "CADILLAC",
+        "car_type": "SRX",
+        "car_year": "2009～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "FX35(二代)",
+        "car_year": "2008～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "G-Series",
+        "car_year": "2008～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "JX35",
+        "car_year": "2012～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "M-Series (Y50)",
+        "car_year": "2006～2010",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "M-Series (Y51)",
+        "car_year": "2010～2014",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "Q30",
+        "car_year": "2016～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "Q30S",
+        "car_year": "2016～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "Q50",
+        "car_year": "2014～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "Q60",
+        "car_year": "2016～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "Q70",
+        "car_year": "2015～",
+        "wiper_size": "26吋+19吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "QX30",
+        "car_year": "2018～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "QX50",
+        "car_year": "2016～",
+        "wiper_size": "24吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "QX60",
+        "car_year": "2012～2016",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "INFINITI",
+        "car_type": "QX60",
+        "car_year": "2016～",
+        "wiper_size": "26吋+17吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "MAZDA",
+        "car_type": "CX-9 (二代)",
+        "car_year": "2017～",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "MAZDA",
+        "car_type": "Mazda 3 (進口五門)",
+        "car_year": "2007～2009",
+        "wiper_size": "21吋+19吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Clubman (F54)",
+        "car_year": "2016～",
+        "wiper_size": "22吋+20吋",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Countryman (R60)",
+        "car_year": "2010～2017",
+        "wiper_size": "20吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Coupe (R58)",
+        "car_year": "2011～",
+        "wiper_size": "20吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Paceman (R61)",
+        "car_year": "2013～",
+        "wiper_size": "20吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Roadster (R59)",
+        "car_year": "2012～",
+        "wiper_size": "20吋+20吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Clubman (R55)",
+        "car_year": "2013～2015",
+        "wiper_size": "18吋+19吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Clubvan (R55)",
+        "car_year": "2012～",
+        "wiper_size": "18吋+19吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Cabiro (R57)",
+        "car_year": "2012～2013",
+        "wiper_size": "18吋+19吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "MINI COOPER",
+        "car_type": "Cooper S (R56)",
+        "car_year": "2012～2013",
+        "wiper_size": "18吋+19吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "SMART ",
+        "car_type": "Fortwo (451 /Coupe)",
+        "car_year": "2007～2014",
+        "wiper_size": "22吋+21吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "SMART ",
+        "car_type": "Fortwo (453 / Coupe)",
+        "car_year": "2015～",
+        "wiper_size": "20吋+14吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "SUBARU",
+        "car_type": "lmpreza (五代)",
+        "car_year": "2017～",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "HONDA",
+        "car_type": "Accord",
+        "car_year": "2014～",
+        "wiper_size": "26吋+18吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "HONDA",
+        "car_type": "CRV (三代)",
+        "car_year": "2007～2012",
+        "wiper_size": "26吋+16吋",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Clio (MK3)",
+        "car_year": "2005～2012",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Clio (Campus)",
+        "car_year": "2009～",
+        "wiper_size": "20吋+18吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Clio (MK4)",
+        "car_year": "2012～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Koleos",
+        "car_year": "2008～",
+        "wiper_size": "24吋+19吋",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Megane (MK2)",
+        "car_year": "2006～2008",
+        "wiper_size": "24吋+18吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Megane (MK3)",
+        "car_year": "2008～",
+        "wiper_size": "24吋+16吋",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "RENAULT",
+        "car_type": "Modus / Modus",
+        "car_year": "2005～2016",
+        "wiper_size": "28吋+26吋",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "SAAB",
+        "car_type": "93",
+        "car_year": "2008～2012",
+        "wiper_size": "23吋+23吋",
+        "wiper_cnet": "B1"
+    }
+]
