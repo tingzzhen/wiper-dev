@@ -19,31 +19,101 @@
         crossorigin="anonymous"></script>
 
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,700,900&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
 
     <script src="./function.js"></script>
     <style>
-        .form-control {
-            width: 20%;
-            display: block;
+        * {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+
+        .banner {
+            width: 100%;
+            height: 100vh;
+            background-color: #ccc;
+            background: linear-gradient(115deg, #000 50%, transparent 50%) center center / 100% 100%,
+                url("https://picsum.photos/1440/900?random=10") right center /auto 100%;
+        }
+
+        .nav-top {
+            position: absolute;
+            width: 100%;
+        }
+
+        .self-select {
+            margin-bottom: 10px;
+        }
+
+        .self-font-color {
+            color: #3b3b3b;
+        }
+
+        .card {
+            margin-top: 150px;
+            background: rgba(255, 255, 255, .7);
+        }
+
+
+        .select2-container--default .select2-search--dropdown .select2-search__field {
+            border: none;
+        }
+
+        .select2-container--default .select2-selection--single .select2-selection__rendered {
+            color: #444;
+            line-height: 28px;
         }
     </style>
 </head>
 
 <body>
+    <nav class="navbar sticky-top navbar-light bg-light nav-top">
+        <a class="navbar-brand" href="#">TITLE NAME</a>
+    </nav>
 
-    <select id="CarBrand" class="form-control" name="state">
-    </select>
-    <br>
-    <select id="CarType" class="form-control" name="state">
-    </select>
-    <br>
-    <select id="CarYear" class="form-control" name="state">
-    </select>
+    <div class="banner">
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <div id="Result" style="color: red;"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-md-8 col-lg-6">
 
+                    <div class="card">
+                        <div class="card-header">
+                            選擇
+                        </div>
+
+                        <div class="card-body">
+                            <div class="self-select ">
+                                <div class="self-font-color">品牌</div>
+                                <select id="CarBrand" class="form-control" name="state">
+                                </select>
+                            </div>
+
+                            <div class="self-select">
+                                <div class="self-font-color">型別</div>
+                                <select id="CarType" class="form-control" name="state">
+                                </select>
+                            </div>
+
+                            <div class="self-select">
+                                <div class="self-font-color">年份</div>
+                                <select id="CarYear" class="form-control" name="state">
+                                </select>
+                            </div>
+
+                        </div>
+                        <div class="card-footer">
+                            <div id="Result" class="self-font-color"></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 <script>
 
