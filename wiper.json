@@ -15,17 +15,17 @@
     },
     {
         "car_brand": "ALFA ROMEO 愛快羅密歐",
-        "car_type": "166",
-        "car_year": "1998～2007",
-        "wiper_size": "21+19",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "ALFA ROMEO 愛快羅密歐",
         "car_type": "159 / SPORTWAGON",
         "car_year": "2005～2011",
         "wiper_size": "22+18",
         "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "ALFA ROMEO 愛快羅密歐",
+        "car_type": "166",
+        "car_year": "1998～2007",
+        "wiper_size": "21+19",
+        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "ALFA ROMEO 愛快羅密歐",
@@ -372,6 +372,20 @@
     },
     {
         "car_brand": "AUDI 奧迪",
+        "car_type": "R8",
+        "car_year": "2015～",
+        "wiper_size": "22+22",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI 奧迪",
+        "car_type": "R8",
+        "car_year": "2016～",
+        "wiper_size": "22+22",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "AUDI 奧迪",
         "car_type": "RS3",
         "car_year": "2011～2012",
         "wiper_size": "24+19",
@@ -424,20 +438,6 @@
         "car_type": "RS7 Sportback",
         "car_year": "2013～",
         "wiper_size": "24+21",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "AUDI 奧迪",
-        "car_type": "R8",
-        "car_year": "2015～",
-        "wiper_size": "22+22",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "AUDI 奧迪",
-        "car_type": "R8",
-        "car_year": "2016～",
-        "wiper_size": "22+22",
         "wiper_cnet": "B2"
     },
     {
@@ -651,20 +651,6 @@
         "wiper_cnet": "B2"
     },
     {
-        "car_brand": "Bentley賓利",
-        "car_type": "Bentayga",
-        "car_year": "2016～",
-        "wiper_size": "26+21",
-        "wiper_cnet": "B5"
-    },
-    {
-        "car_brand": "Bentley賓利",
-        "car_type": "Mulsanne",
-        "car_year": "2015～",
-        "wiper_size": "24+21",
-        "wiper_cnet": "B5"
-    },
-    {
         "car_brand": "BMW 寶馬",
         "car_type": "1-Series",
         "car_year": "2004～2011",
@@ -848,17 +834,10 @@
     },
     {
         "car_brand": "BMW 寶馬",
-        "car_type": "i3",
-        "car_year": "2014～2016",
-        "wiper_size": "28+21",
-        "wiper_cnet": "C"
-    },
-    {
-        "car_brand": "BMW 寶馬",
-        "car_type": "i8",
-        "car_year": "2019～",
-        "wiper_size": "28+24",
-        "wiper_cnet": "C"
+        "car_type": "M Coupe",
+        "car_year": "2000～2006",
+        "wiper_size": "22+20",
+        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "BMW 寶馬",
@@ -880,13 +859,6 @@
         "car_year": "2014～",
         "wiper_size": "24+18",
         "wiper_cnet": "B1"
-    },
-    {
-        "car_brand": "BMW 寶馬",
-        "car_type": "M Coupe",
-        "car_year": "2000～2006",
-        "wiper_size": "22+20",
-        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "BMW 寶馬",
@@ -1022,6 +994,20 @@
         "wiper_cnet": "通用型"
     },
     {
+        "car_brand": "BMW 寶馬",
+        "car_type": "i3",
+        "car_year": "2014～2016",
+        "wiper_size": "28+21",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "BMW 寶馬",
+        "car_type": "i8",
+        "car_year": "2019～",
+        "wiper_size": "28+24",
+        "wiper_cnet": "C"
+    },
+    {
         "car_brand": "BUICK 別克",
         "car_type": "Excelle",
         "car_year": "2003～2009",
@@ -1032,13 +1018,6 @@
         "car_brand": "BUICK 別克",
         "car_type": "LA CROSSE",
         "car_year": "2005～2009",
-        "wiper_size": "22+22",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "BUICK 別克",
-        "car_type": "Regal",
-        "car_year": "1999～2008",
         "wiper_size": "22+22",
         "wiper_cnet": "通用型"
     },
@@ -1055,6 +1034,27 @@
         "car_year": "2002～2007",
         "wiper_size": "24+22",
         "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "BUICK 別克",
+        "car_type": "Regal",
+        "car_year": "1999～2008",
+        "wiper_size": "22+22",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "Bentley賓利",
+        "car_type": "Bentayga",
+        "car_year": "2016～",
+        "wiper_size": "26+21",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "Bentley賓利",
+        "car_type": "Mulsanne",
+        "car_year": "2015～",
+        "wiper_size": "24+21",
+        "wiper_cnet": "B5"
     },
     {
         "car_brand": "CADILLAC 凱迪拉克",
@@ -1408,6 +1408,20 @@
     },
     {
         "car_brand": "FORD 福特",
+        "car_type": "FOCUS MK4",
+        "car_year": "2019～",
+        "wiper_size": "24+20",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "FORD 福特",
+        "car_type": "FREESTYLE",
+        "car_year": "2004～2007",
+        "wiper_size": "24+20",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "FORD 福特",
         "car_type": "Fiesta",
         "car_year": "1995～2002",
         "wiper_size": "19+19",
@@ -1464,13 +1478,6 @@
     },
     {
         "car_brand": "FORD 福特",
-        "car_type": "FREESTYLE",
-        "car_year": "2004～2007",
-        "wiper_size": "24+20",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "FORD 福特",
         "car_type": "I-MAX",
         "car_year": "2007～",
         "wiper_size": "26+16",
@@ -1487,6 +1494,13 @@
         "car_brand": "FORD 福特",
         "car_type": "Kuga",
         "car_year": "2020/05～",
+        "wiper_size": "26+20",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "FORD 福特",
+        "car_type": "Kuga",
+        "car_year": "2020～",
         "wiper_size": "26+20",
         "wiper_cnet": "B1"
     },
@@ -1569,13 +1583,6 @@
     },
     {
         "car_brand": "FORD 福特",
-        "car_type": "Taurus",
-        "car_year": "1996～",
-        "wiper_size": "24+20",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "FORD 福特",
         "car_type": "TIERRA",
         "car_year": "1998～",
         "wiper_size": "21+18",
@@ -1594,6 +1601,13 @@
         "car_year": "2014～",
         "wiper_size": "28+28",
         "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "FORD 福特",
+        "car_type": "Taurus",
+        "car_year": "1996～",
+        "wiper_size": "24+20",
+        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "FORD 福特",
@@ -1622,6 +1636,48 @@
         "car_year": "2014～",
         "wiper_size": "26+18",
         "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "CR-V",
+        "car_year": "1997 (一代)～2002",
+        "wiper_size": "20+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "CR-V",
+        "car_year": "2003 (二代)～2006",
+        "wiper_size": "22+20",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "CR-V",
+        "car_year": "2007 (三代)～2012",
+        "wiper_size": "26+17",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "CR-V",
+        "car_year": "2012 (四代)～2017",
+        "wiper_size": "26+16",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "CR-V",
+        "car_year": "2017 (五代)～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "CR-Z",
+        "car_year": "2010～",
+        "wiper_size": "26+21",
+        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "HONDA 本田",
@@ -1688,58 +1744,9 @@
     },
     {
         "car_brand": "HONDA 本田",
-        "car_type": "CR-V",
-        "car_year": "1997 (一代)～2002",
-        "wiper_size": "20+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "CR-V",
-        "car_year": "2003 (二代)～2006",
-        "wiper_size": "22+20",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "CR-V",
-        "car_year": "2007 (三代)～2012",
-        "wiper_size": "26+17",
-        "wiper_cnet": "E79"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "CR-V",
-        "car_year": "2012 (四代)～2017",
-        "wiper_size": "26+16",
-        "wiper_cnet": "E79"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "CR-V",
-        "car_year": "2017 (五代)～",
-        "wiper_size": "26+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "CR-Z",
-        "car_year": "2010～",
-        "wiper_size": "26+21",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HONDA 本田",
         "car_type": "Domani",
         "car_year": "1997～",
         "wiper_size": "20+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "Insight",
-        "car_year": "2010～",
-        "wiper_size": "26+16",
         "wiper_cnet": "通用型"
     },
     {
@@ -1765,6 +1772,13 @@
     },
     {
         "car_brand": "HONDA 本田",
+        "car_type": "Insight",
+        "car_year": "2010～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HONDA 本田",
         "car_type": "LEGEND",
         "car_year": "1998～2004",
         "wiper_size": "20+19",
@@ -1772,16 +1786,23 @@
     },
     {
         "car_brand": "HONDA 本田",
-        "car_type": "Odessy",
-        "car_year": "2014 (五代)～2016",
+        "car_type": "Odyssey",
+        "car_year": "2013～2015/06",
         "wiper_size": "26+22",
         "wiper_cnet": "通用型"
     },
     {
         "car_brand": "HONDA 本田",
-        "car_type": "Odessy",
+        "car_type": "Odyssey",
         "car_year": "2016 (六代)～",
         "wiper_size": "26+14",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HONDA 本田",
+        "car_type": "Odyssey",
+        "car_year": "2015/06～",
+        "wiper_size": "28+14",
         "wiper_cnet": "通用型"
     },
     {
@@ -1898,20 +1919,6 @@
     },
     {
         "car_brand": "HYUNDAI 現代",
-        "car_type": "i10",
-        "car_year": "2009～",
-        "wiper_size": "22+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HYUNDAI 現代",
-        "car_type": "i30",
-        "car_year": "2009～",
-        "wiper_size": "24+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HYUNDAI 現代",
         "car_type": "IX35",
         "car_year": "2010～2016/04",
         "wiper_size": "24+16",
@@ -1982,6 +1989,13 @@
     },
     {
         "car_brand": "HYUNDAI 現代",
+        "car_type": "Santamo",
+        "car_year": "2000～",
+        "wiper_size": "22+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HYUNDAI 現代",
         "car_type": "Sonata",
         "car_year": "1998 (四代)～2001",
         "wiper_size": "20+20",
@@ -2017,13 +2031,6 @@
     },
     {
         "car_brand": "HYUNDAI 現代",
-        "car_type": "Santamo",
-        "car_year": "2000～",
-        "wiper_size": "22+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HYUNDAI 現代",
         "car_type": "Sorento",
         "car_year": "2017～",
         "wiper_size": "26+16",
@@ -2038,16 +2045,16 @@
     },
     {
         "car_brand": "HYUNDAI 現代",
-        "car_type": "Terracan",
-        "car_year": "2001～",
-        "wiper_size": "22+20",
+        "car_type": "TRAJET",
+        "car_year": "2000～",
+        "wiper_size": "26+22",
         "wiper_cnet": "通用型"
     },
     {
         "car_brand": "HYUNDAI 現代",
-        "car_type": "TRAJET",
-        "car_year": "2000～",
-        "wiper_size": "26+22",
+        "car_type": "Terracan",
+        "car_year": "2001～",
+        "wiper_size": "22+20",
         "wiper_cnet": "通用型"
     },
     {
@@ -2076,6 +2083,20 @@
         "car_type": "XG V6 DOHC",
         "car_year": "1998～2005",
         "wiper_size": "22+20",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HYUNDAI 現代",
+        "car_type": "i10",
+        "car_year": "2009～",
+        "wiper_size": "22+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "HYUNDAI 現代",
+        "car_type": "i30",
+        "car_year": "2009～",
+        "wiper_size": "24+18",
         "wiper_cnet": "通用型"
     },
     {
@@ -2112,13 +2133,6 @@
         "car_year": "2008～",
         "wiper_size": "26+17",
         "wiper_cnet": "E79"
-    },
-    {
-        "car_brand": "INFINITI",
-        "car_type": "i30",
-        "car_year": "2009～",
-        "wiper_size": "24+18",
-        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "INFINITI",
@@ -2219,6 +2233,13 @@
         "wiper_cnet": "E79"
     },
     {
+        "car_brand": "INFINITI",
+        "car_type": "i30",
+        "car_year": "2009～",
+        "wiper_size": "24+18",
+        "wiper_cnet": "通用型"
+    },
+    {
         "car_brand": "ISUZU 五十鈴",
         "car_type": "PANTHER",
         "car_year": "1998～2001",
@@ -2241,17 +2262,17 @@
     },
     {
         "car_brand": "JAGUAR 捷豹",
-        "car_type": "F-Type",
-        "car_year": "2016～",
-        "wiper_size": "22+21",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "JAGUAR 捷豹",
         "car_type": "F-Pace",
         "car_year": "2016～",
         "wiper_size": "26+19",
         "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "JAGUAR 捷豹",
+        "car_type": "F-Type",
+        "car_year": "2016～",
+        "wiper_size": "22+21",
+        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "JAGUAR 捷豹",
@@ -2265,6 +2286,13 @@
         "car_type": "S-Type",
         "car_year": "2002～2008",
         "wiper_size": "24+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "JAGUAR 捷豹",
+        "car_type": "X-Type",
+        "car_year": "2001～2009",
+        "wiper_size": "22+19",
         "wiper_cnet": "通用型"
     },
     {
@@ -2324,10 +2352,17 @@
         "wiper_cnet": "通用型"
     },
     {
-        "car_brand": "JAGUAR 捷豹",
-        "car_type": "X-Type",
-        "car_year": "2001～2009",
-        "wiper_size": "22+19",
+        "car_brand": "JEEP 吉普",
+        "car_type": "COMMANDER",
+        "car_year": "2006～2010",
+        "wiper_size": "18+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "JEEP 吉普",
+        "car_type": "COMPASS",
+        "car_year": "2007～2015",
+        "wiper_size": "22+20",
         "wiper_cnet": "通用型"
     },
     {
@@ -2342,20 +2377,6 @@
         "car_type": "Cherokee",
         "car_year": "2014～2016",
         "wiper_size": "26+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "JEEP 吉普",
-        "car_type": "COMMANDER",
-        "car_year": "2006～2010",
-        "wiper_size": "18+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "JEEP 吉普",
-        "car_type": "COMPASS",
-        "car_year": "2007～2015",
-        "wiper_size": "22+20",
         "wiper_cnet": "通用型"
     },
     {
@@ -2437,16 +2458,16 @@
     },
     {
         "car_brand": "KIA 起亞",
-        "car_type": "Euro Star",
-        "car_year": "2004～",
-        "wiper_size": "22+16",
+        "car_type": "EURO-CARENS",
+        "car_year": "2006～",
+        "wiper_size": "24+18",
         "wiper_cnet": "通用型"
     },
     {
         "car_brand": "KIA 起亞",
-        "car_type": "EURO-CARENS",
-        "car_year": "2006～",
-        "wiper_size": "24+18",
+        "car_type": "Euro Star",
+        "car_year": "2004～",
+        "wiper_size": "22+16",
         "wiper_cnet": "通用型"
     },
     {
@@ -2514,13 +2535,6 @@
     },
     {
         "car_brand": "KIA 起亞",
-        "car_type": "U",
-        "car_year": "2010～2015",
-        "wiper_size": "24+20",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "KIA 起亞",
         "car_type": "Soul",
         "car_year": "2017～",
         "wiper_size": "24+20",
@@ -2552,6 +2566,13 @@
         "car_type": "Sportage",
         "car_year": "2016～",
         "wiper_size": "26+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "KIA 起亞",
+        "car_type": "U",
+        "car_year": "2010～2015",
+        "wiper_size": "24+20",
         "wiper_cnet": "通用型"
     },
     {
@@ -2619,13 +2640,6 @@
     },
     {
         "car_brand": "LAND ROVER 荒原路華",
-        "car_type": "Range Rover Sport",
-        "car_year": "2010～2015",
-        "wiper_size": "22+22",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "LAND ROVER 荒原路華",
         "car_type": "Range Rover Evoque",
         "car_year": "1995～2001",
         "wiper_size": "22+22",
@@ -2637,6 +2651,13 @@
         "car_year": "2011/9～",
         "wiper_size": "24+21",
         "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "LAND ROVER 荒原路華",
+        "car_type": "Range Rover Sport",
+        "car_year": "2010～2015",
+        "wiper_size": "22+22",
+        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "LAND ROVER 荒原路華",
@@ -2787,6 +2808,13 @@
     },
     {
         "car_brand": "LEXUS 凌志",
+        "car_type": "NX 200",
+        "car_year": "2014～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "LEXUS 凌志",
         "car_type": "RC-F GT",
         "car_year": "2018～",
         "wiper_size": "24+18",
@@ -2819,13 +2847,6 @@
         "car_year": "2015/10 (四代)～",
         "wiper_size": "26+21",
         "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "LEXUS 凌志",
-        "car_type": "NX 200",
-        "car_year": "2014～",
-        "wiper_size": "26+16",
-        "wiper_cnet": "B5"
     },
     {
         "car_brand": "LEXUS 凌志",
@@ -2906,15 +2927,15 @@
     },
     {
         "car_brand": "LUXGEN 納智捷",
-        "car_type": "U6 TURBO",
-        "car_year": "2013～2017/10",
+        "car_type": "U6 GT",
+        "car_year": "2017/11～",
         "wiper_size": "24+17",
         "wiper_cnet": "通用型"
     },
     {
         "car_brand": "LUXGEN 納智捷",
-        "car_type": "U6 GT",
-        "car_year": "2017/11～",
+        "car_type": "U6 TURBO",
+        "car_year": "2013～2017/10",
         "wiper_size": "24+17",
         "wiper_cnet": "通用型"
     },
@@ -2976,6 +2997,13 @@
     },
     {
         "car_brand": "MAZDA 馬自達",
+        "car_type": "CX-30",
+        "car_year": "2019～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
         "car_type": "CX-5",
         "car_year": "2012～2017/3",
         "wiper_size": "24+18",
@@ -2987,6 +3015,13 @@
         "car_year": "2017/4～2018",
         "wiper_size": "24+18",
         "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
+        "car_type": "CX-5",
+        "car_year": "2017～",
+        "wiper_size": "24+18",
+        "wiper_cnet": "B5"
     },
     {
         "car_brand": "MAZDA 馬自達",
@@ -3021,6 +3056,34 @@
         "car_type": "ISAMU",
         "car_year": "2000～",
         "wiper_size": "20+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
+        "car_type": "MILLENIA",
+        "car_year": "1997～",
+        "wiper_size": "21+20",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
+        "car_type": "MPV",
+        "car_year": "2000～2006",
+        "wiper_size": "24+24",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
+        "car_type": "MX-5",
+        "car_year": "1989～2015",
+        "wiper_size": "18+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
+        "car_type": "MX-5",
+        "car_year": "2016～",
+        "wiper_size": "19+18",
         "wiper_cnet": "通用型"
     },
     {
@@ -3063,6 +3126,13 @@
         "car_type": "Mazda 3",
         "car_year": "2015～2019/6",
         "wiper_size": "24+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MAZDA 馬自達",
+        "car_type": "Mazda 3",
+        "car_year": "2019/7～",
+        "wiper_size": "26+17",
         "wiper_cnet": "通用型"
     },
     {
@@ -3113,34 +3183,6 @@
         "car_year": "2018/7 (三代小改款)～",
         "wiper_size": "24+18",
         "wiper_cnet": "B5"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "MILLENIA",
-        "car_year": "1997～",
-        "wiper_size": "21+20",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "MPV",
-        "car_year": "2000～2006",
-        "wiper_size": "24+24",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "MX-5",
-        "car_year": "1989～2015",
-        "wiper_size": "18+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "MX-5",
-        "car_year": "2016～",
-        "wiper_size": "19+18",
-        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "MAZDA 馬自達",
@@ -3270,6 +3312,13 @@
     },
     {
         "car_brand": "MERCEDES-BENZ 賓士",
+        "car_type": "CL-C Coupe",
+        "car_year": "2014～2014",
+        "wiper_size": "26+26",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "MERCEDES-BENZ 賓士",
         "car_type": "CLA-Class",
         "car_year": "2013～2016/8",
         "wiper_size": "24+19",
@@ -3288,13 +3337,6 @@
         "car_year": "2008～2010",
         "wiper_size": "22+22",
         "wiper_cnet": "E"
-    },
-    {
-        "car_brand": "MERCEDES-BENZ 賓士",
-        "car_type": "CL-C Coupe",
-        "car_year": "2014～2014",
-        "wiper_size": "26+26",
-        "wiper_cnet": "C"
     },
     {
         "car_brand": "MERCEDES-BENZ 賓士",
@@ -3431,20 +3473,6 @@
     },
     {
         "car_brand": "MERCEDES-BENZ 賓士",
-        "car_type": "GLK",
-        "car_year": "2008～2014",
-        "wiper_size": "22+19",
-        "wiper_cnet": "C"
-    },
-    {
-        "car_brand": "MERCEDES-BENZ 賓士",
-        "car_type": "GLK",
-        "car_year": "2014～",
-        "wiper_size": "22+19",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "MERCEDES-BENZ 賓士",
         "car_type": "GLC",
         "car_year": "2015～",
         "wiper_size": "22+22",
@@ -3477,6 +3505,20 @@
         "car_year": "2019/11～",
         "wiper_size": "26+22",
         "wiper_cnet": "G"
+    },
+    {
+        "car_brand": "MERCEDES-BENZ 賓士",
+        "car_type": "GLK",
+        "car_year": "2008～2014",
+        "wiper_size": "22+19",
+        "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "MERCEDES-BENZ 賓士",
+        "car_type": "GLK",
+        "car_year": "2014～",
+        "wiper_size": "22+19",
+        "wiper_cnet": "B2"
     },
     {
         "car_brand": "MERCEDES-BENZ 賓士",
@@ -3613,6 +3655,27 @@
     },
     {
         "car_brand": "MINI 寶馬迷你",
+        "car_type": "Cabiro",
+        "car_year": "2004～2012",
+        "wiper_size": "18+19",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MINI 寶馬迷你",
+        "car_type": "Cabiro",
+        "car_year": "2012～2013",
+        "wiper_size": "18+19",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "MINI 寶馬迷你",
+        "car_type": "Cabiro",
+        "car_year": "2014～",
+        "wiper_size": "18+19",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "MINI 寶馬迷你",
         "car_type": "Clubman",
         "car_year": "2007～2012",
         "wiper_size": "18+18",
@@ -3638,27 +3701,6 @@
         "car_year": "2012～",
         "wiper_size": "18+19",
         "wiper_cnet": "B3"
-    },
-    {
-        "car_brand": "MINI 寶馬迷你",
-        "car_type": "Cabiro",
-        "car_year": "2004～2012",
-        "wiper_size": "18+19",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "MINI 寶馬迷你",
-        "car_type": "Cabiro",
-        "car_year": "2012～2013",
-        "wiper_size": "18+19",
-        "wiper_cnet": "B3"
-    },
-    {
-        "car_brand": "MINI 寶馬迷你",
-        "car_type": "Cabiro",
-        "car_year": "2014～",
-        "wiper_size": "18+19",
-        "wiper_cnet": "通用型"
     },
     {
         "car_brand": "MINI 寶馬迷你",
@@ -4033,6 +4075,13 @@
     },
     {
         "car_brand": "NISSAN 日產",
+        "car_type": "NEW SENTRA",
+        "car_year": "2020～",
+        "wiper_size": "24+17",
+        "wiper_cnet": "E79"
+    },
+    {
+        "car_brand": "NISSAN 日產",
         "car_type": "Nex Teana",
         "car_year": "2009～",
         "wiper_size": "26+16",
@@ -4117,20 +4166,6 @@
     },
     {
         "car_brand": "NISSAN 日產",
-        "car_type": "Teana",
-        "car_year": "2004 (一代)～2009",
-        "wiper_size": "24+19",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "NISSAN 日產",
-        "car_type": "Teana",
-        "car_year": "2009 (二代)～",
-        "wiper_size": "26+17",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "NISSAN 日產",
         "car_type": "TIIDA",
         "car_year": "2006～2013",
         "wiper_size": "22+16",
@@ -4141,6 +4176,20 @@
         "car_type": "TIIDA",
         "car_year": "2013 (BIG TIIDA)～",
         "wiper_size": "26+14",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "NISSAN 日產",
+        "car_type": "Teana",
+        "car_year": "2004 (一代)～2009",
+        "wiper_size": "24+19",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "NISSAN 日產",
+        "car_type": "Teana",
+        "car_year": "2009 (二代)～",
+        "wiper_size": "26+17",
         "wiper_cnet": "通用型"
     },
     {
@@ -4158,11 +4207,11 @@
         "wiper_cnet": "通用型"
     },
     {
-        "car_brand": "OPEL 歐寶",
-        "car_type": "Astra H",
-        "car_year": "2004～",
-        "wiper_size": "22+18",
-        "wiper_cnet": "C"
+        "car_brand": "NISSAN 日產",
+        "car_type": "X-Trail",
+        "car_year": "2015～",
+        "wiper_size": "26+17",
+        "wiper_cnet": "E79"
     },
     {
         "car_brand": "OPEL 歐寶",
@@ -4170,6 +4219,13 @@
         "car_year": "2013～",
         "wiper_size": "26+16",
         "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "OPEL 歐寶",
+        "car_type": "Astra H",
+        "car_year": "2004～",
+        "wiper_size": "22+18",
+        "wiper_cnet": "C"
     },
     {
         "car_brand": "OPEL 歐寶",
@@ -4212,6 +4268,20 @@
         "car_year": "2005 (B)～2014",
         "wiper_size": "28+22",
         "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "PEUGEOT 寶獅",
+        "car_type": "1007",
+        "car_year": "2005～",
+        "wiper_size": "24+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "PEUGEOT 寶獅",
+        "car_type": "2008",
+        "car_year": "2013～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "B2"
     },
     {
         "car_brand": "PEUGEOT 寶獅",
@@ -4267,6 +4337,20 @@
         "car_type": "208",
         "car_year": "2012～",
         "wiper_size": "26+16",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT 寶獅",
+        "car_type": "3008",
+        "car_year": "2009～",
+        "wiper_size": "28+28",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT 寶獅",
+        "car_type": "3008",
+        "car_year": "2017/7～",
+        "wiper_size": "28+16",
         "wiper_cnet": "B2"
     },
     {
@@ -4355,6 +4439,20 @@
     },
     {
         "car_brand": "PEUGEOT 寶獅",
+        "car_type": "5008",
+        "car_year": "2009～",
+        "wiper_size": "28+28",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT 寶獅",
+        "car_type": "5008",
+        "car_year": "2018～",
+        "wiper_size": "28+16",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PEUGEOT 寶獅",
         "car_type": "508",
         "car_year": "2010～",
         "wiper_size": "26+26",
@@ -4387,48 +4485,6 @@
         "car_year": "2002～",
         "wiper_size": "26+26",
         "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "PEUGEOT 寶獅",
-        "car_type": "1007",
-        "car_year": "2005～",
-        "wiper_size": "24+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "PEUGEOT 寶獅",
-        "car_type": "2008",
-        "car_year": "2013～",
-        "wiper_size": "26+16",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "PEUGEOT 寶獅",
-        "car_type": "3008",
-        "car_year": "2009～",
-        "wiper_size": "28+28",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "PEUGEOT 寶獅",
-        "car_type": "3008",
-        "car_year": "2017/7～",
-        "wiper_size": "28+16",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "PEUGEOT 寶獅",
-        "car_type": "5008",
-        "car_year": "2009～",
-        "wiper_size": "28+28",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "PEUGEOT 寶獅",
-        "car_type": "5008",
-        "car_year": "2018～",
-        "wiper_size": "28+16",
-        "wiper_cnet": "B2"
     },
     {
         "car_brand": "PEUGEOT 寶獅",
@@ -4726,16 +4782,23 @@
     },
     {
         "car_brand": "SKODA 司科達",
-        "car_type": "Koroq",
-        "car_year": "2018～",
-        "wiper_size": "26+18",
-        "wiper_cnet": "B2"
+        "car_type": "Kamig",
+        "car_year": "2020",
+        "wiper_size": "24+19",
+        "wiper_cnet": "B1"
     },
     {
         "car_brand": "SKODA 司科達",
         "car_type": "Kodiaq",
         "car_year": "2017～",
         "wiper_size": "24+21",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "SKODA 司科達",
+        "car_type": "Koroq",
+        "car_year": "2018～",
+        "wiper_size": "26+18",
         "wiper_cnet": "B2"
     },
     {
@@ -4789,6 +4852,20 @@
     },
     {
         "car_brand": "SMART 斯麥特",
+        "car_type": "Forfour",
+        "car_year": "2004～2007",
+        "wiper_size": "26+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SMART 斯麥特",
+        "car_type": "Forfour",
+        "car_year": "2015～",
+        "wiper_size": "20+14",
+        "wiper_cnet": "B3"
+    },
+    {
+        "car_brand": "SMART 斯麥特",
         "car_type": "Fortwo",
         "car_year": "2004～2007",
         "wiper_size": "21+21",
@@ -4810,44 +4887,9 @@
     },
     {
         "car_brand": "SMART 斯麥特",
-        "car_type": "Forfour",
-        "car_year": "2004～2007",
-        "wiper_size": "26+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SMART 斯麥特",
-        "car_type": "Forfour",
-        "car_year": "2015～",
-        "wiper_size": "20+14",
-        "wiper_cnet": "B3"
-    },
-    {
-        "car_brand": "SMART 斯麥特",
         "car_type": "Roadster",
         "car_year": "2003～2007",
         "wiper_size": "20+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "Ssangyong 雙龍",
-        "car_type": "Actyon Sports",
-        "car_year": "2012～",
-        "wiper_size": "21+19",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "Ssangyong 雙龍",
-        "car_type": "Stavic",
-        "car_year": "2016～",
-        "wiper_size": "24+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "Ssangyong 雙龍",
-        "car_type": "Tivoli",
-        "car_year": "2018～",
-        "wiper_size": "24+16",
         "wiper_cnet": "通用型"
     },
     {
@@ -4922,41 +4964,6 @@
     },
     {
         "car_brand": "SUBARU 速霸陸",
-        "car_type": "lmpreza",
-        "car_year": "1993～2001",
-        "wiper_size": "21+18",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SUBARU 速霸陸",
-        "car_type": "lmpreza",
-        "car_year": "2002～2007",
-        "wiper_size": "22+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SUBARU 速霸陸",
-        "car_type": "lmpreza",
-        "car_year": "2008 (三代)～2013/7",
-        "wiper_size": "24+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SUBARU 速霸陸",
-        "car_type": "lmpreza",
-        "car_year": "2013/8 (四代)～2016",
-        "wiper_size": "26+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SUBARU 速霸陸",
-        "car_type": "lmpreza",
-        "car_year": "2017/2 (五代)～",
-        "wiper_size": "26+16",
-        "wiper_cnet": "B5"
-    },
-    {
-        "car_brand": "SUBARU 速霸陸",
         "car_type": "Outback",
         "car_year": "2009～2014",
         "wiper_size": "26+19",
@@ -4987,6 +4994,41 @@
         "car_brand": "SUBARU 速霸陸",
         "car_type": "XV",
         "car_year": "2017/6 (二代)～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "SUBARU 速霸陸",
+        "car_type": "lmpreza",
+        "car_year": "1993～2001",
+        "wiper_size": "21+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SUBARU 速霸陸",
+        "car_type": "lmpreza",
+        "car_year": "2002～2007",
+        "wiper_size": "22+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SUBARU 速霸陸",
+        "car_type": "lmpreza",
+        "car_year": "2008 (三代)～2013/7",
+        "wiper_size": "24+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SUBARU 速霸陸",
+        "car_type": "lmpreza",
+        "car_year": "2013/8 (四代)～2016",
+        "wiper_size": "26+16",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SUBARU 速霸陸",
+        "car_type": "lmpreza",
+        "car_year": "2017/2 (五代)～",
         "wiper_size": "26+16",
         "wiper_cnet": "B5"
     },
@@ -5062,6 +5104,20 @@
     },
     {
         "car_brand": "SUZUKI 鈴木",
+        "car_type": "SX4",
+        "car_year": "2006～2013",
+        "wiper_size": "26+14",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SUZUKI 鈴木",
+        "car_type": "SX4",
+        "car_year": "2014～",
+        "wiper_size": "26+14",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "SUZUKI 鈴木",
         "car_type": "Solio",
         "car_year": "2002～",
         "wiper_size": "20+18",
@@ -5090,20 +5146,6 @@
     },
     {
         "car_brand": "SUZUKI 鈴木",
-        "car_type": "SX4",
-        "car_year": "2006～2013",
-        "wiper_size": "26+14",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SUZUKI 鈴木",
-        "car_type": "SX4",
-        "car_year": "2014～",
-        "wiper_size": "26+14",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SUZUKI 鈴木",
         "car_type": "Vitara",
         "car_year": "2016～",
         "wiper_size": "24+16",
@@ -5114,6 +5156,27 @@
         "car_type": "Wagon R+",
         "car_year": "2000～",
         "wiper_size": "20+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "Ssangyong 雙龍",
+        "car_type": "Actyon Sports",
+        "car_year": "2012～",
+        "wiper_size": "21+19",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "Ssangyong 雙龍",
+        "car_type": "Stavic",
+        "car_year": "2016～",
+        "wiper_size": "24+18",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "Ssangyong 雙龍",
+        "car_type": "Tivoli",
+        "car_year": "2018～",
+        "wiper_size": "24+16",
         "wiper_cnet": "通用型"
     },
     {
@@ -5142,6 +5205,13 @@
         "car_type": "86",
         "car_year": "2012～",
         "wiper_size": "22+20",
+        "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "TOYOTA 豐田",
+        "car_type": "AVALON",
+        "car_year": "2000～2004",
+        "wiper_size": "24+17",
         "wiper_cnet": "通用型"
     },
     {
@@ -5188,16 +5258,23 @@
     },
     {
         "car_brand": "TOYOTA 豐田",
-        "car_type": "AVALON",
-        "car_year": "2000～2004",
-        "wiper_size": "24+17",
+        "car_type": "Auris",
+        "car_year": "2018～",
+        "wiper_size": "28+14",
         "wiper_cnet": "通用型"
     },
     {
         "car_brand": "TOYOTA 豐田",
-        "car_type": "Auris",
-        "car_year": "2018～",
-        "wiper_size": "28+14",
+        "car_type": "C-HR",
+        "car_year": "2017～",
+        "wiper_size": "26+16",
+        "wiper_cnet": "B5"
+    },
+    {
+        "car_brand": "TOYOTA 豐田",
+        "car_type": "CROSS",
+        "car_year": "2020/10",
+        "wiper_size": "26+16",
         "wiper_cnet": "通用型"
     },
     {
@@ -5234,13 +5311,6 @@
         "car_year": "2018/11 (八代)～",
         "wiper_size": "26+20",
         "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "TOYOTA 豐田",
-        "car_type": "C-HR",
-        "car_year": "2017～",
-        "wiper_size": "26+16",
-        "wiper_cnet": "B5"
     },
     {
         "car_brand": "TOYOTA 豐田",
@@ -5360,6 +5430,13 @@
         "car_year": "2010～2016",
         "wiper_size": "24+16",
         "wiper_cnet": "通用型"
+    },
+    {
+        "car_brand": "TOYOTA 豐田",
+        "car_type": "SIENTA",
+        "car_year": "2016～",
+        "wiper_size": "26+14",
+        "wiper_cnet": "B5"
     },
     {
         "car_brand": "TOYOTA 豐田",
@@ -5489,6 +5566,20 @@
     },
     {
         "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "CC",
+        "car_year": "2008 (Passat CC / 357)～2012/6",
+        "wiper_size": "24+19",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "CC",
+        "car_year": "2012/7 (VW CC / 358)～",
+        "wiper_size": "24+19",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
         "car_type": "Caddy",
         "car_year": "2004 (三代)～2006",
         "wiper_size": "24+18",
@@ -5513,20 +5604,6 @@
         "car_type": "Caddy",
         "car_year": "2018 (四代)～",
         "wiper_size": "24+18",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "CC",
-        "car_year": "2008 (Passat CC / 357)～2012/6",
-        "wiper_size": "24+19",
-        "wiper_cnet": "B1"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "CC",
-        "car_year": "2012/7 (VW CC / 358)～",
-        "wiper_size": "24+19",
         "wiper_cnet": "B2"
     },
     {
@@ -5601,6 +5678,13 @@
     },
     {
         "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "Golf Sportsvan",
+        "car_year": "2014～",
+        "wiper_size": "28+16",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
         "car_type": "Golf Variant",
         "car_year": "2007 (MK5)～2009",
         "wiper_size": "24+19",
@@ -5618,13 +5702,6 @@
         "car_type": "Golf Variant",
         "car_year": "2014 (MK7)～",
         "wiper_size": "26+18",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "Golf Sportsvan",
-        "car_year": "2014～",
-        "wiper_size": "28+16",
         "wiper_cnet": "B2"
     },
     {
@@ -5661,6 +5738,41 @@
         "car_year": "2003～2013",
         "wiper_size": "24+24",
         "wiper_cnet": "C"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "PASSAT CC",
+        "car_year": "2008～2013",
+        "wiper_size": "24+19",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "POLO",
+        "car_year": "2002 (9N1)～2005",
+        "wiper_size": "21+19",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "POLO",
+        "car_year": "2005 (9N3 / 9N4)～2009",
+        "wiper_size": "21+19",
+        "wiper_cnet": "B1"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "POLO",
+        "car_year": "2010 (6R1 / 6C1)～2017",
+        "wiper_size": "24+16",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "VOLKSWAGEN 福斯",
+        "car_type": "POLO",
+        "car_year": "2018 (六代／AW1)～",
+        "wiper_size": "26+18",
+        "wiper_cnet": "B2"
     },
     {
         "car_brand": "VOLKSWAGEN 福斯",
@@ -5706,45 +5818,10 @@
     },
     {
         "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "PASSAT CC",
-        "car_year": "2008～2013",
-        "wiper_size": "24+19",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
         "car_type": "Phaeton",
         "car_year": "2002～",
         "wiper_size": "24+21",
         "wiper_cnet": "C"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "POLO",
-        "car_year": "2002 (9N1)～2005",
-        "wiper_size": "21+19",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "POLO",
-        "car_year": "2005 (9N3 / 9N4)～2009",
-        "wiper_size": "21+19",
-        "wiper_cnet": "B1"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "POLO",
-        "car_year": "2010 (6R1 / 6C1)～2017",
-        "wiper_size": "24+16",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "VOLKSWAGEN 福斯",
-        "car_type": "POLO",
-        "car_year": "2018 (六代／AW1)～",
-        "wiper_size": "26+18",
-        "wiper_cnet": "B2"
     },
     {
         "car_brand": "VOLKSWAGEN 福斯",
@@ -6102,75 +6179,5 @@
         "car_year": "2015/8～",
         "wiper_size": "24+20",
         "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "TOYOTA 豐田",
-        "car_type": "SIENTA",
-        "car_year": "2016～",
-        "wiper_size": "26+14",
-        "wiper_cnet": "B5"
-    },
-    {
-        "car_brand": "TOYOTA 豐田",
-        "car_type": "CROSS",
-        "car_year": "2020/10",
-        "wiper_size": "26+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "FORD 福特",
-        "car_type": "Kuga",
-        "car_year": "2020～",
-        "wiper_size": "26+20",
-        "wiper_cnet": "B1"
-    },
-    {
-        "car_brand": "FORD 福特",
-        "car_type": "FOCUS MK4",
-        "car_year": "2019～",
-        "wiper_size": "24+20",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "NISSAN 日產",
-        "car_type": "NEW SENTRA",
-        "car_year": "2020～",
-        "wiper_size": "24+17",
-        "wiper_cnet": "E79"
-    },
-    {
-        "car_brand": "NISSAN 日產",
-        "car_type": "X-TRAIL",
-        "car_year": "2015～",
-        "wiper_size": "26+17",
-        "wiper_cnet": "E79"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "CX-5",
-        "car_year": "2017～",
-        "wiper_size": "24+18",
-        "wiper_cnet": "B5"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "CX-30",
-        "car_year": "2019～",
-        "wiper_size": "26+16",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "MAZDA 馬自達",
-        "car_type": "Mazda 3",
-        "car_year": "2019/7～",
-        "wiper_size": "26+17",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "SKODA 司科達",
-        "car_type": "Kamig",
-        "car_year": "2020",
-        "wiper_size": "24+19",
-        "wiper_cnet": "B1"
     }
 ]
