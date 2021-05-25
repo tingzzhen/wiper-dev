@@ -1794,13 +1794,6 @@
     {
         "car_brand": "HONDA 本田",
         "car_type": "Odyssey",
-        "car_year": "2016 (六代)～",
-        "wiper_size": "26+14",
-        "wiper_cnet": "通用型"
-    },
-    {
-        "car_brand": "HONDA 本田",
-        "car_type": "Odyssey",
         "car_year": "2015/06～",
         "wiper_size": "28+14",
         "wiper_cnet": "通用型"
@@ -2655,14 +2648,14 @@
     {
         "car_brand": "LAND ROVER 荒原路華",
         "car_type": "Range Rover Sport",
-        "car_year": "2010～2015",
+        "car_year": "2005～2013",
         "wiper_size": "22+22",
         "wiper_cnet": "通用型"
     },
     {
         "car_brand": "LAND ROVER 荒原路華",
         "car_type": "Range Rover Sport",
-        "car_year": "2005～2013",
+        "car_year": "2010～2015",
         "wiper_size": "22+22",
         "wiper_cnet": "通用型"
     },
@@ -2759,7 +2752,7 @@
     },
     {
         "car_brand": "LEXUS 凌志",
-        "car_type": "LC ",
+        "car_type": "LC",
         "car_year": "2017～",
         "wiper_size": "26+18",
         "wiper_cnet": "通用型"
@@ -3292,16 +3285,16 @@
     {
         "car_brand": "MERCEDES-BENZ 賓士",
         "car_type": "C-Class",
-        "car_year": "2014/7～2014/9",
+        "car_year": "2014/10～",
         "wiper_size": "22+22",
-        "wiper_cnet": "B1"
+        "wiper_cnet": "G"
     },
     {
         "car_brand": "MERCEDES-BENZ 賓士",
         "car_type": "C-Class",
-        "car_year": "2014/10～",
+        "car_year": "2014/7～2014/9",
         "wiper_size": "22+22",
-        "wiper_cnet": "G"
+        "wiper_cnet": "B1"
     },
     {
         "car_brand": "MERCEDES-BENZ 賓士",
@@ -3809,7 +3802,7 @@
     },
     {
         "car_brand": "MITSUBISHI 三菱",
-        "car_type": "Colt  Plus",
+        "car_type": "Colt Plus",
         "car_year": "2007 (七代)～",
         "wiper_size": "26+14",
         "wiper_cnet": "通用型"
@@ -4503,13 +4496,6 @@
     {
         "car_brand": "PORSCHE 保時捷",
         "car_type": "911",
-        "car_year": "2013～2015",
-        "wiper_size": "22+21",
-        "wiper_cnet": "B2"
-    },
-    {
-        "car_brand": "PORSCHE 保時捷",
-        "car_type": "911",
         "car_year": "1997 (996 / 997)～2010",
         "wiper_size": "22+21",
         "wiper_cnet": "通用型"
@@ -4518,6 +4504,13 @@
         "car_brand": "PORSCHE 保時捷",
         "car_type": "911",
         "car_year": "2011 (七代 / 911)～",
+        "wiper_size": "22+21",
+        "wiper_cnet": "B2"
+    },
+    {
+        "car_brand": "PORSCHE 保時捷",
+        "car_type": "911",
+        "car_year": "2013～2015",
         "wiper_size": "22+21",
         "wiper_cnet": "B2"
     },
@@ -5273,7 +5266,7 @@
     {
         "car_brand": "TOYOTA 豐田",
         "car_type": "CROSS",
-        "car_year": "2020/10",
+        "car_year": "Oct-20",
         "wiper_size": "26+16",
         "wiper_cnet": "通用型"
     },
